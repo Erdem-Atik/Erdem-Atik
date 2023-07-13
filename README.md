@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+### 🔭 I’m currently learning React
+### 
 [![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erdem-Atik)](https://github.com/Erdem-Atik/github-readme-stats)
 
 
